@@ -1,8 +1,7 @@
 # Scrum Master
-Salvar desafios de projetos e anotações da formação Scrum Master da DIO.
+Salvar minhas anotações e meus desafios de projetos da formação Scrum Master da DIO.
 
 ## Desafios de Pojetos 1
-
 - Estudo de Caso SpaceX Metodologia SCRUM
 
 SpaceX - Uma historia de sucesso
@@ -58,7 +57,6 @@ Agora com a Starship e o Super Heavy, a metodologia da SpaceX de iteração ráp
  Para startups que precisam alavancar uma ideia e colocar resultados no mercado em tempo hábil, o Scrum é fundamental. Como visto, com o uso correto dessa metodologia, as empresas são capazes de começar com produtos/aplicativos sólidos e testados, de modo a crescer em seu nicho, conseguir maior lucratividade e até mesmo se tornar referência no que fazem.
 
 ## Desafios de projetos 2
-
 - FrameWork Scrum
 
 Um framework estilizado por mim como projeto do curso Formação Scrum Master Certification na DIO e foi estilizado na MIRO, link do projeto: https://miro.com/app/board/uXjVPFq1a_I=/?share_link_id=127854925936
