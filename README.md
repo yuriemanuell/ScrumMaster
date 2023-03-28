@@ -3,7 +3,7 @@ Salvar desafios de projetos e anotações da formação Scrum Master da DIO.
 
 ## Desafios de Pojetos 1
 
-- Estudo-de-Caso-SpaceX-Metodologia-SCRUM
+- Estudo de Caso SpaceX Metodologia SCRUM
 
 SpaceX - Uma historia de sucesso
 
