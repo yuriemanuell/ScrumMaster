@@ -1,7 +1,7 @@
 # Scrum Master
 Salvar minhas anotações e meus desafios de projetos da formação Scrum Master da DIO.
 
-## Desafios de Pojetos 1
+## Desafios de Projetos 1
 - Estudo de Caso SpaceX Metodologia SCRUM
 
 SpaceX - Uma historia de sucesso
