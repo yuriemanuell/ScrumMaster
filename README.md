@@ -1,5 +1,5 @@
 # Scrum Master
-Salvar minhas anotações e meus desafios de projetos da formação Scrum Master da DIO.
+Salvar meus desafios de projetos da formação Scrum Master da DIO.
 
 ## Desafios de Projetos 1
 - Estudo de Caso SpaceX Metodologia SCRUM
@@ -60,6 +60,3 @@ Agora com a Starship e o Super Heavy, a metodologia da SpaceX de iteração ráp
 - FrameWork Scrum
 
 Um framework estilizado por mim como projeto do curso Formação Scrum Master Certification na DIO e foi estilizado na MIRO, link do projeto: https://miro.com/app/board/uXjVPFq1a_I=/?share_link_id=127854925936
-
-## Anotações
-Anotações, observações e dicas sobre a formação Scrum Master da DIO: https://onedrive.live.com/redir?resid=AAFF686C5DF23B96%21129&page=Edit&wd=target%28Metodologia%20agil.one%7C67616b43-c48d-412f-bf52-134974e11585%2F%29&wdorigin=717
